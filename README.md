@@ -1,8 +1,12 @@
 # Frontier Systems Lab
 
-A structured, systems-level exploration of modern AI architecture — from mathematical foundations through production inference, safety, evaluation, and governance.
+This repository documents my structured journey to becoming a frontier-level AI systems architect.
 
-This repository is organised as a progressive lab designed to build deep capability in designing, deploying, and auditing frontier AI systems.
+The focus is not model hype.
+The focus is operational intelligence: training, inference, data pipelines, evaluation, safety, and governance.
+
+Each folder represents a systems layer.
+Each commit represents a shipped learning artefact.
 
 ---
 
